@@ -7,7 +7,6 @@
   <maintainer email="rd8614196@gmail.com">rohit</maintainer>
   <license>TODO: License declaration</license>
 
-  <depend>importlib</depend>
   <depend>rclpy</depend>
 
   <test_depend>ament_copyright</test_depend>
